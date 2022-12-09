@@ -1,0 +1,3 @@
+﻿  Trees.cpp
+C:\Users\vasyl\projects_cpp\Trees\Trees.cpp(86): warning C4715: 'Stack<treeNode *>::pop': not all control paths return a value
+  Trees.vcxproj -> C:\Users\vasyl\projects_cpp\Trees\x64\Debug\Trees.exe

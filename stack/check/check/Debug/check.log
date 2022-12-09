@@ -1,0 +1,7 @@
+﻿  check.cpp
+C:\Users\vasyl\draft\check\check\check.cpp(193,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  check.vcxproj -> C:\Users\vasyl\draft\check\Debug\check.exe
